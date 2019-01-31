@@ -8,7 +8,7 @@ public class amninder {
 	public void ammy()
 	{
 		
-		System.out.println("hello amninder how are you");
+		System.out.println("delhi");
 	}
 
 }
