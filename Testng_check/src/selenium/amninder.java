@@ -8,7 +8,7 @@ public class amninder {
 	public void ammy()
 	{
 		
-		System.out.println("jamesbond");
+		System.out.println("abc");
 	}
 
 }
